@@ -1,4 +1,4 @@
 # Traffic forecast
 
-Traffic forecast of Braga, Portugal.
+Traffic forecast in Braga, Portugal.
 TomTom API used to gather data.
